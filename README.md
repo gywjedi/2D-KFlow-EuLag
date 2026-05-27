@@ -262,19 +262,6 @@ ffmpeg -framerate 30 -i Video/%04d.png -c:v libx264 -pix_fmt yuv420p movie.mp4
 
 ---
 
-## Typography Note
-
-GitHub README files do not reliably support arbitrary custom fonts or CSS font-family styling. This README uses GitHub-safe visual styles instead:
-
-- large Markdown headings,
-- bold and italic emphasis,
-- monospace code blocks,
-- tables,
-- centered HTML header blocks.
-
-These styles render consistently on GitHub.
-
----
 
 ## Suggested Repository Layout
 
