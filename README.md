@@ -291,11 +291,6 @@ These styles render consistently on GitHub.
 
 ---
 
-## License
-
-Add your preferred license here, for example MIT, BSD-3-Clause, or GPL.
-
----
 
 <div align="center">
 
